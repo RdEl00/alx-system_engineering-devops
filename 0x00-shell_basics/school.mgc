@@ -1,4 +1,2 @@
-school.mgc: data
-ls: data
-thisisaschoolfile: School data
-thisisatextfile: ASCII text
+0 string SCHOOL School data
+!:mime School
