@@ -1,1 +1,1 @@
-- 0-iam_betty : Switche the current user to the user betty.
+- 0-iam_betty : Switch the current user to the user betty.
