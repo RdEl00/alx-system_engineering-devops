@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lap --sort=time | grep -v / | head -10
+ls -ltp| grep -v / | head -10
